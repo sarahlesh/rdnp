@@ -1,0 +1,29 @@
+.wd-modal-bg {
+  background: #000000;
+  background: rgba(0, 0, 0, 0.6);
+  bottom: 0;
+  display: none;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1004;
+  left: 0;
+  .flex-video {
+    margin: 0;
+  }
+}
+.wd-video-popup {
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 50%;
+  z-index: 1005;
+  margin: 30px;
+}
+
+.wd-modal-close {
+  background: #222222;
+}
+
+

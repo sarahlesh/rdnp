@@ -1,0 +1,3290 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-24 13:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:7
+msgid "OHH!! PAGE NOT FOUND"
+msgstr ""
+
+#: 404.php:11
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help "
+"or go back to "
+msgstr ""
+
+#: 404.php:11
+msgid "Homepage"
+msgstr ""
+
+#: comments.php:10
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: comments.php:11
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:15
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:32
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:37
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:53
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:70
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:70 woocommerce/single-product-reviews.php:69
+#: woocommerce/_single-product-reviews.php:69
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:73
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: comments.php:77
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:77
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:93
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:68
+msgid "Home - "
+msgstr ""
+
+#: functions.php:101
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:109
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:118
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:126
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:135
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:142
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: functions.php:144
+msgid "Appears on the shop page of your website."
+msgstr ""
+
+#: functions.php:157
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:158 inc/vcomposer/vc_elements/vc_video.php:71
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:461
+msgid "Right"
+msgstr ""
+
+#: functions.php:162
+msgid "Footer"
+msgstr ""
+
+#: functions.php:193
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: index.php:36
+msgid "prev"
+msgstr ""
+
+#: index.php:37
+msgid "Next"
+msgstr ""
+
+#: search.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: single.php:99
+msgid " Comment"
+msgstr ""
+
+#: single.php:108
+msgid "Pages:"
+msgstr ""
+
+#: inc/mega-menu.php:135
+msgid "display icone"
+msgstr ""
+
+#: inc/mega-menu.php:146
+msgid "Mega Menu (Background image)"
+msgstr ""
+
+#: inc/mega-menu.php:157
+msgid "Mega Menu (classic)"
+msgstr ""
+
+#: inc/panel.php:269
+msgid "General Settings"
+msgstr ""
+
+#: inc/panel.php:270
+msgid "Color Settings"
+msgstr ""
+
+#: inc/panel.php:271
+msgid "Adress Bar"
+msgstr ""
+
+#: inc/panel.php:272
+msgid "Fonts Settings"
+msgstr ""
+
+#: inc/panel.php:273
+msgid "Custom CSS & JS"
+msgstr ""
+
+#: inc/panel.php:274
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/panel.php:285
+msgid "Logo link"
+msgstr ""
+
+#: inc/panel.php:293 inc/panel.php:312 inc/panel.php:937
+msgid "Upload"
+msgstr ""
+
+#: inc/panel.php:304
+msgid "Background Title Bar for Single Post"
+msgstr ""
+
+#: inc/panel.php:326 inc/vcomposer/extend.php:166
+msgid "Style 1"
+msgstr ""
+
+#: inc/panel.php:327 inc/vcomposer/extend.php:167
+msgid "Style 2"
+msgstr ""
+
+#: inc/panel.php:328
+msgid "Style 3"
+msgstr ""
+
+#: inc/panel.php:329
+msgid "Style 4"
+msgstr ""
+
+#: inc/panel.php:330 inc/vcomposer/vc_elements/nonprofit_count_up.php:217
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:397
+msgid "None"
+msgstr ""
+
+#: inc/panel.php:336
+msgid "Body Border"
+msgstr ""
+
+#: inc/panel.php:343
+msgid "Add page margin"
+msgstr ""
+
+#: inc/panel.php:350
+msgid "Show Min Cart"
+msgstr ""
+
+#: inc/panel.php:357
+msgid "Show Min Search"
+msgstr ""
+
+#: inc/panel.php:364
+msgid "Active Smooth Scroll"
+msgstr ""
+
+#: inc/panel.php:382
+msgid "Primary Color:"
+msgstr ""
+
+#: inc/panel.php:390
+msgid "Secondary Color:"
+msgstr ""
+
+#: inc/panel.php:399
+msgid "Footer Background Color:"
+msgstr ""
+
+#: inc/panel.php:408
+msgid "Top Bar Background Color:"
+msgstr ""
+
+#: inc/panel.php:417
+msgid "Sticky Top Bar Background Color:"
+msgstr ""
+
+#: inc/panel.php:426
+msgid "Sticky Top Bar Color:"
+msgstr ""
+
+#: inc/panel.php:435
+msgid "Single Product Image Background Color:"
+msgstr ""
+
+#: inc/panel.php:444
+msgid "Top Bar Text Color:"
+msgstr ""
+
+#: inc/panel.php:461
+msgid "Show Adress Bar"
+msgstr ""
+
+#: inc/panel.php:468
+msgid "Header Phone Number"
+msgstr ""
+
+#: inc/panel.php:472
+msgid "Header E-mail"
+msgstr ""
+
+#: inc/panel.php:476
+msgid "Header Adress"
+msgstr ""
+
+#: inc/panel.php:505
+msgid "Main text font"
+msgstr ""
+
+#: inc/panel.php:516
+msgid "Font family :"
+msgstr ""
+
+#: inc/panel.php:531
+msgid "Font weight and style "
+msgstr ""
+
+#: inc/panel.php:555 inc/panel.php:680 inc/panel.php:781
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:184
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:270
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:357
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:94
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:182
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:176
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:261
+#: inc/vcomposer/vc_elements/nonprofit_list.php:128
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:178
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:272
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:362
+msgid "Text Transform"
+msgstr ""
+
+#: inc/panel.php:573 inc/panel.php:799
+msgid "Font size"
+msgstr ""
+
+#: inc/panel.php:591 inc/panel.php:698
+msgid "Font subsets"
+msgstr ""
+
+#: inc/panel.php:632
+msgid "Head font family"
+msgstr ""
+
+#: inc/panel.php:639 inc/panel.php:740
+msgid "Font family"
+msgstr ""
+
+#: inc/panel.php:656 inc/panel.php:757
+msgid "Font weight and style"
+msgstr ""
+
+#: inc/panel.php:733
+msgid "Navigation font family"
+msgstr ""
+
+#: inc/panel.php:816
+msgid "Font subsets "
+msgstr ""
+
+#: inc/panel.php:843 parts/header/header-1.php:47 parts/header/header-2.php:21
+#: parts/header/header-3.php:8 parts/header/header-4.php:49
+#: parts/header/header-5.php:49
+msgid "Home"
+msgstr ""
+
+#: inc/panel.php:844
+msgid "About"
+msgstr ""
+
+#: inc/panel.php:845
+msgid "Services"
+msgstr ""
+
+#: inc/panel.php:864
+msgid "Custom css"
+msgstr ""
+
+#: inc/panel.php:872
+msgid "Custom JavaScript"
+msgstr ""
+
+#: inc/panel.php:887
+msgid "Footer columns"
+msgstr ""
+
+#: inc/panel.php:914
+msgid "Footer Style"
+msgstr ""
+
+#: inc/panel.php:929
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/panel.php:948
+msgid "Footer Copyright text"
+msgstr ""
+
+#: inc/panel.php:963
+msgid "Update Options"
+msgstr ""
+
+#: inc/plugins/plugins.php:83
+#: inc/plugins/lib/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/plugins.php:84
+#: inc/plugins/lib/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins/plugins.php:85
+#: inc/plugins/lib/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins/plugins.php:86
+#: inc/plugins/lib/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/plugins.php:87
+#: inc/plugins/lib/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:88
+#: inc/plugins/lib/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:89
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:90
+#: inc/plugins/lib/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:91
+#: inc/plugins/lib/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:92
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:93
+#: inc/plugins/lib/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:94
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:95
+#: inc/plugins/lib/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:96
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:97
+#: inc/plugins/lib/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/plugins.php:98
+#: inc/plugins/lib/class-tgm-plugin-activation.php:399
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/plugins.php:99
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:400
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:828
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:935
+#: inc/plugins/lib/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:1116
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3370
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3370
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vcomposer/extend.php:15
+msgid "CSS Animation"
+msgstr ""
+
+#: inc/vcomposer/extend.php:19
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:734
+msgid "No"
+msgstr ""
+
+#: inc/vcomposer/extend.php:20
+msgid "Expand In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:21
+msgid "Bounce In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:22
+msgid "Bounce In Down"
+msgstr ""
+
+#: inc/vcomposer/extend.php:23
+msgid "Bounce In Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:24
+msgid "Bounce In Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:25
+msgid "Bounce In Up"
+msgstr ""
+
+#: inc/vcomposer/extend.php:26
+msgid "Fade In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:27
+msgid "Fade In Down"
+msgstr ""
+
+#: inc/vcomposer/extend.php:28
+msgid "Fade In Down Big"
+msgstr ""
+
+#: inc/vcomposer/extend.php:29
+msgid "Fade In Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:30
+msgid "Fade In Left Big"
+msgstr ""
+
+#: inc/vcomposer/extend.php:31
+msgid "Fade In Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:32
+msgid "Fade In Right Big"
+msgstr ""
+
+#: inc/vcomposer/extend.php:33
+msgid "Fade In Up"
+msgstr ""
+
+#: inc/vcomposer/extend.php:34
+msgid "Fade In Up Big"
+msgstr ""
+
+#: inc/vcomposer/extend.php:35
+msgid "Flip"
+msgstr ""
+
+#: inc/vcomposer/extend.php:36
+msgid "Flip In X"
+msgstr ""
+
+#: inc/vcomposer/extend.php:37
+msgid "Flip In Y"
+msgstr ""
+
+#: inc/vcomposer/extend.php:38
+msgid "Flip Out X"
+msgstr ""
+
+#: inc/vcomposer/extend.php:39
+msgid "Flip Out Y"
+msgstr ""
+
+#: inc/vcomposer/extend.php:40
+msgid "Light Speed In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:41
+msgid "Light Speed Out"
+msgstr ""
+
+#: inc/vcomposer/extend.php:42
+msgid "Rotate In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:43
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:44
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:45
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:46
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:47
+msgid "Slide In Up"
+msgstr ""
+
+#: inc/vcomposer/extend.php:48
+msgid "Slide In Down"
+msgstr ""
+
+#: inc/vcomposer/extend.php:49
+msgid "Slide In Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:50
+msgid "Slide In Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:51
+msgid "Zoom In "
+msgstr ""
+
+#: inc/vcomposer/extend.php:52
+msgid "Zoom In Down"
+msgstr ""
+
+#: inc/vcomposer/extend.php:53
+msgid "Zoom In Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:54
+msgid "Zoom In Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:55
+msgid "Zoom In Up"
+msgstr ""
+
+#: inc/vcomposer/extend.php:56
+msgid "Roll In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:58
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: inc/vcomposer/extend.php:89 inc/vcomposer/vc_elements/vc_row.php:8
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:114
+msgid "Text Color"
+msgstr ""
+
+#: inc/vcomposer/extend.php:91 inc/vcomposer/vc_elements/vc_row.php:10
+msgid "Select font color"
+msgstr ""
+
+#: inc/vcomposer/extend.php:165
+msgid " "
+msgstr ""
+
+#: inc/vcomposer/extend.php:169
+msgid "Use Wd Accordion Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_row.php:54
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:100
+msgid "Border Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:14
+msgid "Video mode..."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:17
+msgid "Simple video"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:18
+msgid "Full screen video"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:24
+msgid "Video link"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:27
+#, php-format
+msgid "Link to the video. More about supported formats at %s."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:34
+msgid "Thumbnail Image"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:37
+msgid "Upload or select video thumbnail image from media gallery."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:44
+msgid "Video source"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:47
+msgid "Youtube"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:48
+msgid "Vimeo"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:56
+msgid "Video ID"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:66
+msgid "Label Alignment"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:69
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:462
+msgid "Left"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:70
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:460
+msgid "Center"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:79
+msgid "Modal Size (width)"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:82
+msgid "Medium (60%)"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:83
+msgid "Small (40%)"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:84
+msgid "Tiny (30%)"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:85
+msgid "Large (70%)"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:86
+msgid "XLarge (95%)"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:87
+msgid "Full (100%)"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:95
+#: inc/vcomposer/vc_elements/nonprofit_list.php:45
+msgid "Icon color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/vc_video.php:104
+msgid "Label background"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:16
+msgid "Recent From Blog"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:25
+msgid "Blog type"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:36
+msgid "Image Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:43
+msgid "Chose One Post"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:53
+msgid "Blog Post List"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:61
+msgid "Show / Hide Filter Categories"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:72
+msgid "Blog Category"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:80
+msgid "Item perpage"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:87
+msgid "Columns"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:94
+msgid "Blog Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:105
+msgid "Display Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:117
+msgid "Display Content"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:120
+msgid "Yes, Please"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:127
+msgid "Blog Title Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:144
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:230
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:317
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:60
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:148
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:123
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:209
+#: inc/vcomposer/vc_elements/nonprofit_list.php:89
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:144
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:235
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:329
+msgid "Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:151
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:237
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:324
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:85
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:173
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:160
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:245
+#: inc/vcomposer/vc_elements/nonprofit_list.php:96
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:169
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:262
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:353
+msgid "Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:160
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:246
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:333
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:169
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:254
+msgid "Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:167
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:253
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:340
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:67
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:155
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:142
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:227
+#: inc/vcomposer/vc_elements/nonprofit_list.php:111
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:151
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:243
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:335
+msgid "Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:170
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:187
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:256
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:273
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:343
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:360
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:429
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:446
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:70
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:97
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:158
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:185
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:145
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:179
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:230
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:264
+#: inc/vcomposer/vc_elements/nonprofit_list.php:62
+#: inc/vcomposer/vc_elements/nonprofit_list.php:114
+#: inc/vcomposer/vc_elements/nonprofit_list.php:131
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:298
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:316
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:393
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:411
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:508
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:526
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:109
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:127
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:208
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:226
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:303
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:321
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:399
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:417
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:495
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:513
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:592
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:610
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:218
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:236
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:325
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:343
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:419
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:437
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:539
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:557
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:575
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:589
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:677
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:695
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:141
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:158
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:241
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:258
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:327
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:344
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:154
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:181
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:246
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:275
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:338
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:365
+msgid "Default"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:198
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:284
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:371
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:108
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:196
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:190
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:275
+#: inc/vcomposer/vc_elements/nonprofit_list.php:142
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:192
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:287
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:376
+msgid "Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:207
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:293
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:380
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:117
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:205
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:199
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:284
+#: inc/vcomposer/vc_elements/nonprofit_list.php:151
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:201
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:297
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:385
+msgid "Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:215
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:301
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:388
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:130
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:215
+#: inc/vcomposer/vc_elements/nonprofit_list.php:159
+msgid "Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:218
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:304
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:391
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:477
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:133
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:218
+#: inc/vcomposer/vc_elements/nonprofit_list.php:162
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:350
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:445
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:560
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:161
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:260
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:355
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:451
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:547
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:644
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:270
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:377
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:471
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:623
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:636
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:719
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:189
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:289
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:376
+msgid "Normal"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:219
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:305
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:392
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:478
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:134
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:219
+#: inc/vcomposer/vc_elements/nonprofit_list.php:163
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:351
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:446
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:561
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:162
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:261
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:356
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:452
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:548
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:645
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:271
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:378
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:472
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:624
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:637
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:720
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:190
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:290
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:375
+msgid "Italic"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:220
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:306
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:393
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:479
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:135
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:220
+#: inc/vcomposer/vc_elements/nonprofit_list.php:164
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:352
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:447
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:562
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:163
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:262
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:357
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:453
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:549
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:646
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:272
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:379
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:473
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:625
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:638
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:721
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:191
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:291
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:377
+msgid "Inherit"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:221
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:307
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:394
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:480
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:136
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:221
+#: inc/vcomposer/vc_elements/nonprofit_list.php:165
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:353
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:448
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:563
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:164
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:263
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:358
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:454
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:550
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:647
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:273
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:380
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:474
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:626
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:639
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:722
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:192
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:292
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:378
+msgid "Initial"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:403
+msgid "Blog Tags And Post Date Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:410
+msgid "Blog Tags And Post Date Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:419
+msgid "Blog Tags And Post Date Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:426
+msgid "Blog Tags And Post Date Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:443
+msgid "Blog Tags And Post Date Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:457
+msgid "Blog Tags And Post Date Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:466
+msgid "Blog Tags And Post Date Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_blog.php:474
+msgid "Blog Tags And Post Date Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:6
+msgid "Button"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:14
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:65
+msgid "Button Text"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:20
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:27
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:70
+msgid "Button Link"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:32
+msgid "Button Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:47
+msgid "Button Radius"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:60
+#: inc/vcomposer/vc_elements/nonprofit_button.php:78
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:85
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:41
+msgid "Icon Position"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:97
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:232
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:394
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:412
+msgid "Icon"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:103
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:238
+#: inc/vcomposer/vc_elements/nonprofit_list.php:40
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:418
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:109
+msgid "Button Border"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:119
+msgid "Button Border Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_button.php:127
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:7
+msgid "Wd Clients"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:15
+msgid "Images"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:21
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:45
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:16
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:19
+msgid "Layout Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:28
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:240
+msgid "Navigation Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:36
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:167
+msgid "Elements To Swipe"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:43
+msgid "Items To Display in Mobile"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:49
+msgid "Items To Display in Tablet"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:55
+msgid "Items To Display in Desktop"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:63
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:24
+msgid "Columns number in Mobile"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:69
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:30
+msgid "Columns number in Tablet"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_clients.php:75
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:36
+msgid "Columns number in Desktop"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:9
+msgid "Count UP"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:17
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:58
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:13
+msgid "Alignment"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:26
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:49
+msgid "Layout"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:38
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:13
+msgid "Title"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:43
+msgid "Title Text Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:50
+msgid "Title Padding"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:126
+msgid "Number"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:131
+msgid "Number Padding"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:138
+msgid "Number Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:214
+msgid "Switcher Icon/Image"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:225
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:76
+#: inc/vcomposer/vc_elements/nonprofit_hero_image.php:13
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:39
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:405
+msgid "Image"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:243
+msgid "Icon/image Padding"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:251
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:448
+msgid "Icon Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_count_up.php:261
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:440
+msgid "Icon Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_empty_spaces.php:3
+msgid "Wd Empty Space"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_empty_spaces.php:11
+msgid "Height in Mobile"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_empty_spaces.php:16
+msgid "Height in Tablet"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_empty_spaces.php:21
+msgid "Height in Desktop"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_empty_spaces.php:26
+msgid "Extra Classes"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:6
+msgid "Headings"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:19
+msgid "Title Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:30
+msgid "subtitle"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:36
+msgid "Subtitle Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:66
+msgid "Separator Type"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:81
+msgid "Separator Position"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:90
+msgid "Border Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:107
+msgid "Border Width"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:114
+msgid "Margin between Title and subtitle"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_headings.php:294
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:53
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:76
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_hero_image.php:5
+msgid "Hero Image"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_hero_image.php:18
+msgid "Full Screen"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_hero_image.php:20
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:76
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:121
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:132
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:49
+msgid "Yes, please"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_hero_image.php:24
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:30
+msgid "Text"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:6
+msgid "Wd List"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:15
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:14
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:27
+msgid "Values"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:17
+msgid "Enter values for graph - value, title and color."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:20
+#: inc/vcomposer/vc_elements/nonprofit_list.php:24
+msgid "Put some text here ..."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:31
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:47
+msgid "Label"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:33
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:49
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:38
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:54
+msgid "Value"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:47
+msgid "Select the icon color."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:51
+msgid "Text color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:53
+msgid "Select the text color."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:59
+msgid "List Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:74
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:423
+msgid "Icon Padding"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:81
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:430
+msgid "Icon Margin"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_list.php:104
+msgid "Icon Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:6
+msgid "Maps"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:17
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:23
+msgid "Latitude"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:30
+msgid "Map Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:36
+msgid "Map Zoom"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:42
+msgid "Map Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:62
+msgid "Company Name"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:73
+msgid "Company Description"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_maps.php:83
+msgid "Markup"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:19
+msgid "Portfolio Layout"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:31
+msgid "Hover Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:60
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:67
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:41
+msgid "Categories"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:73
+msgid "Enable Filters"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:84
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:53
+msgid "Items To Show"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:118
+msgid "Enable Link Icon"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:129
+msgid "Enable View Icon"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:141
+msgid "Columns Number On Mobile"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:156
+msgid "Columns Number On Tablet"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:171
+msgid "Columns Number On Desktop"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:186
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:135
+msgid "Static Html Item Description Position"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:195
+msgid "Static Html Item Description Column Width"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:204
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:128
+msgid "Static HTML Item"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:211
+msgid "Spacing Between Items"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:218
+msgid "Static HTML Item background Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:226
+msgid "Load More Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:254
+msgid "Portfolio Title Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:269
+msgid "Portfolio Title Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:277
+msgid "Portfolio Title Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:287
+msgid "Portfolio Title Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:295
+msgid "Portfolio Title Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:313
+msgid "Portfolio Title Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:328
+msgid "Portfolio Title Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:338
+msgid "Portfolio Title Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:347
+msgid "Portfolio Title Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:364
+msgid "Portfolio Tags Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:372
+msgid "Portfolio Tags Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:382
+msgid "Portfolio Tags Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:390
+msgid "Portfolio Tags Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:408
+msgid "Portfolio Tags Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:423
+msgid "Portfolio Tags Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:433
+msgid "Portfolio Tags Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:442
+msgid "Portfolio Tags Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:457
+msgid "Filters Position"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:470
+msgid "Filters Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:478
+msgid "Filters Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:488
+msgid "Filters Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:497
+msgid "Filters Hover Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:505
+msgid "Filters Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:523
+msgid "Filters Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:538
+msgid "Filters Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:548
+msgid "Filters Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_portfolio.php:557
+msgid "Filters Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:6
+msgid "Wd Pricing Table"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:32
+msgid "Enter Line text."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:44
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:95
+msgid "Price"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:49
+msgid "Featured"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:54
+msgid "Per"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:56
+msgid "Per Month - Year - Day ..."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:60
+msgid "Sub Title"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:80
+msgid "Title Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:88
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:98
+msgid "Title Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:106
+msgid "Title Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:124
+msgid "Title Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:139
+msgid "Title Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:149
+msgid "Title Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:158
+msgid "Title Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:179
+msgid "Price Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:187
+msgid "Price Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:197
+msgid "Price Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:205
+msgid "Price Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:223
+msgid "Price Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:238
+msgid "Price Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:248
+msgid "Price Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:257
+msgid "Price Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:274
+msgid "Per Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:282
+msgid "Per Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:292
+msgid "Per Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:300
+msgid "Per Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:318
+msgid "Per Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:333
+msgid "Per Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:343
+msgid "Per Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:352
+msgid "Per Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:370
+msgid "Description Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:378
+msgid "Description Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:388
+msgid "Description Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:396
+msgid "Description Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:414
+msgid "Description Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:429
+msgid "Description Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:439
+msgid "Description Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:448
+msgid "Description Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:466
+msgid "List Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:474
+msgid "List Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:484
+msgid "List Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:492
+msgid "List Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:510
+msgid "List Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:525
+msgid "List Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:535
+msgid "List Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:544
+msgid "List Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:563
+msgid "Button Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:571
+msgid "Button Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:581
+msgid "Button Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:589
+msgid "Button Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:607
+msgid "Button Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:622
+msgid "Button Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:632
+msgid "Button Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_pricing_table.php:641
+msgid "Button Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:5
+msgid "Wd Progress Bar"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:12
+msgid "Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:21
+msgid "Widget title"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:23
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:29
+msgid "Enter values for graph - value, title."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:32
+msgid "Development"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:36
+msgid "Design"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:40
+msgid "Marketing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:56
+msgid "Enter value of bar."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:63
+msgid "Units"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:65
+msgid ""
+"Enter measurement units (Example: %, px, points, etc. Note: graph value and "
+"units will be appended to graph title)."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:69
+msgid "CSS box"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_progressbar.php:71
+msgid "Design Options"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:7
+msgid "Wd Team Member"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:42
+msgid "Picture Position"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:50
+msgid "Slider Layout Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:58
+msgid "Show Website"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:67
+msgid "Navigation style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:75
+msgid "Dots position"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:83
+msgid "Elements To Show In Mobile"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:89
+msgid "Elements To Show In Tablet"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:95
+msgid "Elements To Show In Desktop"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:102
+msgid "Show Skills"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:111
+msgid "Skills Layout"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:120
+msgid "Show Bibliography"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:129
+msgid "Used for add description item"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:144
+msgid "Static HTML Item Link To"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:151
+msgid "Static HTML Item Background Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:159
+msgid "Static HTML Item text Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:173
+msgid "Team Member Name Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:189
+msgid "Team Member Name Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:197
+msgid "Team Member Name Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:207
+msgid "Team Member Name Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:215
+msgid "Team Member Name Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:233
+msgid "Team Member Name Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:248
+msgid "Team Member Name Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:258
+msgid "Team Member Name Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:267
+msgid "Team Member Name Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:281
+msgid "Job Title Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:296
+msgid "Job Title Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:304
+msgid "Job Title Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:314
+msgid "Job Title Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:322
+msgid "Job Title Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:340
+msgid "Job Title Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:355
+msgid "Job Title Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:365
+msgid "Job Title Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:374
+msgid "Job Title Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:390
+msgid "About Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:398
+msgid "About Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:408
+msgid "About Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:416
+msgid "About Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:434
+msgid "About Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:449
+msgid "About Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:459
+msgid "About Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:468
+msgid "About Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:483
+msgid "Skill Name Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:491
+msgid "Skill Value Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:499
+msgid "Skill Name Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:509
+msgid "Skill Value Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:519
+msgid "Skill Name Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:528
+msgid "Skill Value Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:536
+msgid "Skill Name Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:554
+msgid "Skill Value Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:572
+msgid "Skill Name Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:586
+msgid "Skill Value Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:601
+msgid "Skill Name Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:611
+msgid "Skill Value Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:620
+msgid "Skill Name Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:633
+msgid "Skill Value Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:648
+msgid "Website Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:656
+msgid "Website Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:666
+msgid "Website Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:674
+msgid "Website Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:692
+msgid "Website Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:707
+msgid "Website Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:716
+msgid "Website Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:730
+msgid "Show Social Medias"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:733
+msgid "Yes"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:741
+msgid "social Icons Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_team_member.php:751
+msgid "Social Icons Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:10
+msgid "Wd Testimonail"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:27
+msgid "Show Thumbnail"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:34
+msgid "Thumbnail position"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:47
+msgid "Infinity Scroll"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:85
+msgid "Text margin"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:87
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:94
+msgid "for example : 10px 10px 10px 10px"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:92
+msgid "Quotes margin"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:98
+msgid "Testimonial Title Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:115
+msgid "Testimonial Title Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:122
+msgid "Testimonial Title Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:131
+msgid "Testimonial Title Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:138
+msgid "Testimonial Title Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:155
+msgid "Testimonial Title Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:169
+msgid "Testimonial Title Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:178
+msgid "Testimonial Title Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:186
+msgid "Testimonial Title Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:198
+msgid "Testimonial Job Title Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:215
+msgid "Testimonial Job Title Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:222
+msgid "Testimonial Job Title Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:231
+msgid "Testimonial Job Title Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:238
+msgid "Testimonial Job Title Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:255
+msgid "Testimonial Job Title Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:269
+msgid "Testimonial Job Title Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:278
+msgid "Testimonial Job Title Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:286
+msgid "Testimonial Job Title Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:301
+msgid "Testimonial Text Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:308
+msgid "Testimonial Text Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:317
+msgid "Testimonial Text Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:324
+msgid "Testimonial Text Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:341
+msgid "Testimonial Text Text Transform"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:355
+msgid "Testimonial Text Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:364
+msgid "Testimonial Text Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:372
+msgid "Testimonial Text Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:386
+msgid "Testimonial Quotes Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:395
+msgid "Testimonial Quotes Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_testimonial.php:403
+msgid "Testimonial Quotes Opacity"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:6
+msgid "Text block with an Icon"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:22
+msgid "Show subtitle"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:31
+msgid "Switch Title and Subtitle"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:50
+msgid "Content/Title Box Padding"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:56
+msgid "Hover Effect"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:66
+msgid "Apply Link To"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:85
+msgid "Title Text"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:92
+msgid "Title Balises"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:97
+msgid "h2 (Default)"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:107
+msgid "Title Text Padding"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:121
+msgid "Title Separator Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:128
+msgid "Title Separator Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:135
+msgid "Title Separator Width"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:209
+msgid "Subtitle Text"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:217
+msgid "Title SubText Padding"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:225
+msgid "SubTitle Text Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:307
+msgid "Content Text"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:313
+msgid "Content Text Padding"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:320
+msgid "Content Text Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:457
+msgid "Icon Border Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:475
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:483
+msgid "Icon Border Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:492
+msgid "Icon Border width"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:500
+msgid "Icon Border Radius"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:511
+msgid "Link"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:519
+msgid "Read MoreText"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/nonprofit_text_icon.php:527
+msgid "Read More Class"
+msgstr ""
+
+#: inc/walker/nonprofit_walker.php:99
+msgid "Please assign a menu to the primary menu location under "
+msgstr ""
+
+#: parts/header/header-1.php:75 parts/header/header-2.php:40
+#: parts/header/header-3.php:21 parts/header/header-3.php:54
+#: parts/header/header-4.php:77 parts/header/header-5.php:77
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: parts/titlebar/titlebar-1.php:14 parts/titlebar/titlebar-1.php:18
+msgid "Our Latest Blog Posts"
+msgstr ""
+
+#: parts/titlebar/titlebar-1.php:17
+msgid "Blog"
+msgstr ""
+
+#: parts/titlebar/titlebar-1.php:23
+msgid "Search Result of"
+msgstr ""
+
+#: vc_templates/vc_cta_button.php:9
+msgid "Text on the button"
+msgstr ""
+
+#: vc_templates/vc_video.php:63
+msgid "Play video"
+msgstr ""
+
+#: woocommerce/cart-empty.php:27
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart-empty.php:34
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart-shipping.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart-shipping.php:49
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart-totals.php:27
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart-totals.php:32 woocommerce/cart-totals.php:33
+#: woocommerce/mini-cart.php:79
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart-totals.php:54 woocommerce/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart-totals.php:91 woocommerce/cart-totals.php:92
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:118
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cross-sells.php:48
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/mini-cart.php:48 woocommerce/cart/cart.php:58
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/mini-cart.php:71
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/mini-cart.php:84
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/mini-cart.php:85
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:32
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:38
+#: woocommerce/wc-template-functions.php:1761
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:55
+#: woocommerce/shipping-calculator.php:61
+#: woocommerce/shipping-calculator.php:73
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:62
+#: woocommerce/wc-template-functions.php:1790
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:82
+msgid "City"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:90
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:95
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:32
+#: woocommerce/_single-product-reviews.php:32
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:34
+#: woocommerce/_single-product-reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+#: woocommerce/_single-product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#: woocommerce/_single-product-reviews.php:68
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#: woocommerce/_single-product-reviews.php:68
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+#: woocommerce/_single-product-reviews.php:73
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#: woocommerce/_single-product-reviews.php:75
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#: woocommerce/_single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#: woocommerce/_single-product-reviews.php:84
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+#: woocommerce/_single-product-reviews.php:88
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#: woocommerce/_single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+#: woocommerce/_single-product-reviews.php:90
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+#: woocommerce/_single-product-reviews.php:91
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+#: woocommerce/_single-product-reviews.php:92
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+#: woocommerce/_single-product-reviews.php:93
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+#: woocommerce/_single-product-reviews.php:94
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+#: woocommerce/_single-product-reviews.php:98
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+#: woocommerce/_single-product-reviews.php:107
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:131
+msgid "New products"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:139
+#, php-format
+msgid "New products added to %s"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:147
+#, php-format
+msgid "New products tagged %s"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:437
+msgid ""
+"This is a demo store for testing purposes &mdash; no orders shall be "
+"fulfilled."
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:457
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:460
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:758
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:759
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:760
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:761
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:762
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:763
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1083
+msgid "Description"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1092
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1101
+#, php-format
+msgid "Reviews (%d)"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1188
+msgid ""
+"Use $args argument as an array instead. Deprecated argument will be removed "
+"in WC 2.2."
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1360
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1405
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1713
+msgid "required"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1769
+msgid "Update country"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1835
+#: woocommerce/wc-template-functions.php:1982
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:101
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:35
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:41
+#, php-format
+msgid "%s  review"
+msgid_plural "%s  reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Clear"
+msgstr ""

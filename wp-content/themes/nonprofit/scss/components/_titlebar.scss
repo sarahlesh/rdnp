@@ -1,0 +1,33 @@
+.titlebar {
+	background-color: #e7e7e7;
+	padding: 100px 0;
+	.large-8 {
+		border-left: 6px solid #7A7A7A;
+	}
+	.breadcrumbs {
+		background-color: transparent;
+		border-color: transparent;
+	}
+}
+
+
+
+
+.wd-title-bar {
+  background: url("../images/titlebar-bg.jpg") no-repeat center center;
+  background-size: cover;
+  min-height: 420px;
+  text-align: center;
+  margin-bottom: 75px;
+  position : relative;
+  > .row {
+    padding-top: 230px;
+  }
+  h2 {
+    color: #fff;
+    font-size: 55px;
+  }
+  div h5 {
+    color: rgba(255,255,255, .5);
+  }
+}

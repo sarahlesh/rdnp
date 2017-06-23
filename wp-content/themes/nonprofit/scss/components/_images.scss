@@ -1,0 +1,8 @@
+.moved-left-20 {
+  .vc_single_image-wrapper.vc_box_border_grey {
+    border: 2px solid $primary-color;
+    img {
+      transform: translatex(-20px) translatey(-20px);
+    }
+  }
+}

@@ -1,0 +1,34 @@
+button, .button {
+  border-color: transparent;
+  border-radius: 30px;
+  color: white;
+  &:hover,
+  &:focus,
+  &.filled {
+    color: $white;
+    background: #457445;
+  }
+  &.filled {
+    background-color: #222;
+    border: none;
+  }
+  &.no-bg {
+    color: #000;
+    &:hover {
+      background: none;
+      color: #999;
+    }
+  }
+}
+
+.btn-icon-right {
+  i {
+    margin-left : 20px;
+  }
+}
+.btn-icon-left {
+  i {
+    margin-right : 20px;
+  }
+}
+

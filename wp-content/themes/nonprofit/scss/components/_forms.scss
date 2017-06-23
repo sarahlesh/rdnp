@@ -1,0 +1,24 @@
+input:not([type]),
+input[type="text"],
+input[type="password"], input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"], input[type="week"],
+input[type="email"], input[type="number"],
+input[type="search"],
+input[type="tel"], input[type="time"],
+input[type="url"], input[type="color"],
+textarea {
+  border-color: #d7d7d7;
+  box-shadow: none;
+  background: rgba(242, 242, 242, 0.2);
+  text-transform: capitalize;
+}
+
+
+input[type="submit"] {
+  padding: .8rem 2rem .80625rem 2rem;
+  border-color: #aaa;
+  border-radius: 10px;
+}
+

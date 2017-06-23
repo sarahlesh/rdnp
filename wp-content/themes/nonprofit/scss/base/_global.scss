@@ -1,0 +1,309 @@
+/*_________________wordpress core _____________*/
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+.animation-parent, .animated {
+  overflow: hidden !important;
+}
+.wd-list li.animated {
+  overflow: visible !important;
+}
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000; /* Above WP toolbar. */
+}
+.gallery-caption {
+  background-color: rgba(0, 0, 0, 0.7);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing:    border-box;
+  box-sizing:         border-box;
+  color: #fff;
+  font-size: 12px;
+  line-height: 1.5;
+  margin: 0;
+  max-height: 50%;
+  opacity: 0;
+  padding: 6px 8px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: left;
+  width: 100%;
+}
+.bypostauthor > article .fn:before {
+   -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font: normal 16px/1 Genericons;
+  text-decoration: inherit;
+  vertical-align: text-bottom;
+}
+
+.empty-menu {
+  color: #fff;
+}
+/*___________________________________ Global classes ________________________*/
+ul {
+  list-style:none;
+}
+.comment ul {
+  list-style : initial;
+}
+.mi-row,
+.mi-row-right {
+  max-width: 585px;
+  float: right;
+  padding: 0px 30px;;
+}
+.mi-row-right {
+  float: left !important;
+}
+
+
+.mi-row,
+.min-row-child > div {
+  max-width: $row-width/2;
+}
+.row .row {
+  max-width: $row-width;
+  margin: 0 auto;
+}
+.wpb_row {
+  &.row {
+    margin: 0 auto !important;
+    clear: both;
+  }
+}
+
+.vc_row.vc_row-with-delimiter {
+  position: relative;
+}
+.row-delimiter {
+  width: 1px;
+  position: absolute;
+  bottom: 0px;
+  transform: translateY(100%) translateX(900px);
+  z-index: 1;
+  left: 0;
+}
+.wpb_revslider_element.wpb_content_element,
+.no-margin-child .wpb_content_element{
+  margin: 0;
+}
+
+
+.m-b-0 {
+  margin-bottom: 0 !important;
+}
+.p-t-30 {
+  padding-top: 30px;
+}
+.p-t-50 {
+  padding-top: 50px;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+.no-border {
+  border: none !important;
+}
+
+.border-inside > .vc_column_container {
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  margin: 30px;
+  width: calc(100% - 60px);
+}
+
+a {
+  @include transition( (all 0.6s, opacity .3s) );
+}
+a:hover, a:focus {
+  color: $primary-color;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+}
+
+//_________________masonry___________________
+.element{transition: all 0.3s ease 0s;}
+#filters {
+  text-align:center; 
+  li {
+    
+    display:inline-block;
+    padding:10px 20px;
+    border-radius:5px;
+    a {
+      color:#111;
+    }
+    &:hover, &:focus, &:active {
+      background:$primary-color;
+      a {
+        color:#fff;
+      }
+    }
+    &:first-child {
+      background:$primary-color;
+      a {
+        color:#fff;
+      }
+    }
+  }
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+  span {
+    color: $primary-color;
+  }
+}
+
+//____________________  Semi colored column  __________________
+.semi-colored {
+  background: rgba(255,255,255,1);
+  background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 51%, rgba(243,243,243,1) 51%, rgba(243,243,243,1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(50%, rgba(255,255,255,1)), color-stop(51%, rgba(255,255,255,1)), color-stop(51%, rgba(243,243,243,1)), color-stop(100%, rgba(243,243,243,1)));
+  background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 51%, rgba(243,243,243,1) 51%, rgba(243,243,243,1) 100%);
+  background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 51%, rgba(243,243,243,1) 51%, rgba(243,243,243,1) 100%);
+  background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 51%, rgba(243,243,243,1) 51%, rgba(243,243,243,1) 100%);
+  background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 51%, rgba(243,243,243,1) 51%, rgba(243,243,243,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f3f3f3', GradientType=1 );
+}
+.semi-colored-l {
+  background: rgba(243,243,243,1);
+  background: -moz-linear-gradient(left, rgba(243,243,243,1) 0%, rgba(243,243,243,1) 49%, rgba(255,255,255,1) 49%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(243,243,243,1)), color-stop(49%, rgba(243,243,243,1)), color-stop(49%, rgba(255,255,255,1)), color-stop(50%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,1)));
+  background: -webkit-linear-gradient(left, rgba(243,243,243,1) 0%, rgba(243,243,243,1) 49%, rgba(255,255,255,1) 49%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%);
+  background: -o-linear-gradient(left, rgba(243,243,243,1) 0%, rgba(243,243,243,1) 49%, rgba(255,255,255,1) 49%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%);
+  background: -ms-linear-gradient(left, rgba(243,243,243,1) 0%, rgba(243,243,243,1) 49%, rgba(255,255,255,1) 49%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(to right, rgba(243,243,243,1) 0%, rgba(243,243,243,1) 49%, rgba(255,255,255,1) 49%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f3f3', endColorstr='#ffffff', GradientType=1 );
+}
+
+// zoom effect on column
+.hover-effect-zoomin {
+  .wpb_column {
+    overflow: hidden;
+  }
+  .vc_column-inner {
+    transition: .75s ease-in-out;
+    &:hover {
+      transform: scale3d(1.1,1.1,1);
+      opacity: .9;
+    }
+  }
+}
+
+.l-main {
+  overflow-x: hidden;
+}
+.top-bar-section ul li:hover:not(.has-form) > a {
+  background : transparent;
+}

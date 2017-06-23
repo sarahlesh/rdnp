@@ -1,0 +1,169 @@
+/***************************************
+
+  Theme Name: Nonprofit Child
+  Template: Nonprofit
+  Theme URI: http://themes.webdevia.com/nonprofit/
+  Description: Clean WordPress theme for NonProfit
+  Author: Yeeboo Digital
+  Author URI: http://www.webdevia.com/
+  Version: 2.1
+  Text Domain: nonprofit
+  Domain Path: /languages
+  
+  License: ---
+  License URI: ----
+
+  
+***************************************/
+/* ----------------------------------------------------------------------------*/
+
+/*====== GLOBAL STYLES ======*/
+body{
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'Raleway', sans-serif !important;
+}
+a:hover, a:focus{
+  color: inherit;
+  opacity: 0.7;
+}
+
+.flex-container{
+  display: flex;
+  align-items: center;
+}
+
+
+.button{
+  background:  #b20720;
+ font-family: 'Raleway', sans-serif !important;
+ text-transform: uppercase;
+ font-weight: 600;
+border: 2px solid #b20720;
+}
+
+.button:hover{
+  background: white;
+  color: #b20720;
+}
+
+
+/*====== TOP BAR + NAVIGATION STYLES ======*/
+
+.address-info .ion-email, .address-info .ion-android-pin {
+  display: none;
+}
+
+.wd-top-bar .contact i{
+  margin-right: 10px;
+}
+
+.wd-top-bar .contact{
+  color: white;
+}
+
+
+.wd-top-bar .inline-list{
+  padding-right: 10px;
+}
+
+.wd-top-bar .button.success{
+  background: #d89b00 !important;
+}
+
+.wd-top-bar .button.alert{
+  background: #b20720;
+}
+
+.wd-header.wd-header-1{
+  padding: 8px 20px 0px;
+}
+
+.top-bar-section{
+  margin-top: 10px;
+}
+
+.top-bar-section .dropdown li:not(.has-form):not(.active)>a:not(.button){
+  background: rgba(255,255,255,0.8);
+  color: #6a6a6a;
+  transition: all 0.3s;
+}
+
+.top-bar-section .dropdown li:not(.has-form):not(.active)>a:not(.button):hover, .top-bar-section .dropdown li:not(.has-form):not(.active)>a:not(.button):focus{
+  background: white;
+  color: black;
+}
+
+ul.sub-menu.dropdown:after{
+  background-color: #b20720;
+}
+
+.top-bar-section ul li:hover:not(.has-form) > a, .what-we-do h2{
+  color:  #b20720;
+}
+
+/*====== HOMEPAGE STYLES =======*/
+
+.home .nonprofit_multi_post_left_image .nonprofit_multi_post_left_image_info>div a{
+  color: #3d73ba;
+}
+
+.home .nonprofit_multi_post_left_image .nonprofit_multi_post_left_image_info>.wd-redmore a{
+  color: #a9a9a9 ;
+}
+
+.nonprofit_one_post_standar .nonprofit_one_post_standar_info>div span{
+  margin-right: 0;
+}
+
+.nonprofit_one_post_standar .nonprofit_one_post_standar_info .post-categories{
+  margin: 0;
+}
+
+.nonprofit_one_post_standar_info span:nth-of-type(1):after{
+  content: "|";
+  color: #a9a9a9;
+  padding: 0 20px;
+}
+
+.nonprofit_one_post_standar_info span:nth-of-type(2), .nonprofit_multi_post_left_image .nonprofit_multi_post_left_image_info>div span:nth-of-type(2){
+  display: none;
+}
+
+.nonprofit_one_post_standar_info a{
+  border-radius: 3px;
+  margin-top:10px;
+}
+
+/*====== SINGLE POSTS =======*/
+
+.wd-title-bar{
+  background: rgba(61,115,186,1);
+}
+
+/*===== FOOTER STYLES ======*/
+
+.wd-footer .textwidget .large-8{
+  width: 100%;
+}
+
+.wd-footer .textwidget .large-8 p{
+  letter-spacing: 0px;
+}
+
+.body-border-bottom{
+  display: none;
+}
+
+.footer-nav-bottom{
+  flex-grow: 1;
+}
+
+.copyright a{
+  color: #d99c0e;
+}
+
+
+

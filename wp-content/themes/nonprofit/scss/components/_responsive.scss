@@ -1,0 +1,55 @@
+.top-bar .toggle-topbar.menu-icon a {
+	color: #000;
+}
+
+.top-bar .toggle-topbar.menu-icon a span:after {
+	box-shadow: 0 0 0 1px #000,0 7px 0 1px #000,0 14px 0 1px #000;
+}
+@media #{$small-only} {
+	.wd-header {
+		background: transparent !important;
+	}
+	.wd-testimonail .testimonial-text {
+    padding: 0 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+    margin-bottom: 20px;
+	}
+	.wd-testimonail .testimonial-text:after {
+	    font-size: 20px !important;
+	    bottom: -10px !important;
+	    right: -20px !important;
+	}
+	.wd-testimonail .testimonial-text:before {
+	    font-size: 20px !important;
+	    left: -20px !important;
+	    top: -10px !important;
+	}
+	.owl-thumbs .owl-thumb-item {
+    margin: 1px;
+	}
+}
+
+
+@media only screen and (max-width : 768px) {
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+}
