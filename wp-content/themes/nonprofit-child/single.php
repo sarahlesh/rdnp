@@ -16,8 +16,8 @@
 	            <div class="blog-page">
 	            	
 	            	<div class="blog-page-info">
-						   <span>POSTED BY</span> <span><?php the_author() ?></span>
-						   <span> | <?php the_date('M, d, Y') ?> | </span>
+						  </span>
+						   <span> <?php the_date('M, d, Y') ?> | </span>
 						   <?php the_category() ?>
 					</div>
 					

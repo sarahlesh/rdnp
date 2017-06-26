@@ -12,7 +12,7 @@
     <div class="row">
       <div class="left address-info">
         <?php if (nonprofit_get_option("nonprofit_header_number","214-587-3656") != ""){
-          echo "<i class='ion-android-phone-portrait'></i><span>". nonprofit_get_option("nonprofit_header_number","214-587-3656") . " </span>";
+          echo "<i class='ion-android-phone-portrait'></i><span> <u>24 Hour crisis line</u>, free and confidential services: ". nonprofit_get_option("nonprofit_header_number","214-587-3656") . " </span>";
         } ?>
         <?php if (nonprofit_get_option("nonprofit_header_adress","142 NEw York") != ""){
           echo "<i class='ion-android-pin'></i><span>". nonprofit_get_option("nonprofit_header_adress","142 NEw York"). " </span>";
@@ -44,8 +44,9 @@
             </li>
           <?php } ?>
           <li><?php if (nonprofit_get_option("nonprofit_header_email","out@mail.com") != ""){
-          echo "<a class='contact' href=". nonprofit_get_option("nonprofit_header_email","out@mail.com")  . "><i class='ion-email'></i>Contact Us</a>";
+          echo "<a href='#newsletter'><i class='ion-email'></i></a>";
         } ?></li>
+          <li><a class='contact' href="<?php echo get_home_url() ?>/who-we-are/contact/">Contact Us</a></li>
 
         </ul>
       </div>
